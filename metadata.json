@@ -1,0 +1,29 @@
+{ 
+  "description": "Passion fruit from miles away",
+  "external_url": "https://www.twitter.com/deraNear",
+  "image": "https://ipfs.filebase.io/ipfs/QmZYcUD1ZudE3MCtKuygMGSR3F4eHgKPMVATPESXzbnAtD",
+  "name": "Shit Developer", 
+  "attributes": [
+    {
+        "trait_type": "owner",
+        "value": "Oracle"
+
+  },
+    {
+      "trait_type": "Value", 
+      "value": "Rejuvanation"
+    },
+    {
+      "trait_type": "Religion", 
+      "value": "love"
+    },
+    {
+        "trait_type": "Value", 
+        "value": "Rejuvanation"
+      },
+      {
+        "trait_type": "Value", 
+        "value": "Rejuvanation"
+      }
+    ]
+}
